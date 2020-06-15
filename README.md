@@ -1,6 +1,6 @@
 # Modifying Nested Resources Lab
 
-## Objectives
+## Objectivesf
 
 1. Implement nested resources for creation and modification
 
